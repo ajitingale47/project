@@ -31,10 +31,10 @@
 -- Table country
 -- -----------------------------------------------------
 
-CREATE TABLE country (
-  cn_id character varying(10) PRIMARY KEY,
-  cn_name character varying(45));
-
+--CREATE TABLE country (
+--  cn_id character varying(10) PRIMARY KEY,
+--  cn_name character varying(45));
+------------------------------------------------
 -- -----------------------------------------------------
 -- Table state
 -- -----------------------------------------------------
